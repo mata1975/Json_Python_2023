@@ -1,0 +1,10 @@
+
+
+18.4.2023
+
+Just some own code writing for Json objects
+
+Got couple of url links that provides information on Json format
+-Euro value
+-Randon joke
+-Randon dog picture
