@@ -48,7 +48,7 @@ while True:
         choice=int(input(" 1) One € value in $  \n 2) Get random Joke \n 3) Get link to Dog picture \n 0) Quit program \n Your choice > "))
     except Exception:
         print("Choice NOT accepted")
-        print("Make choice, press 1 2 3 or 0\n")
+        print("Make choice, press 1, 2, 3 or 0\n")
         continue
     if choice==1:
         answer=value_euro()
